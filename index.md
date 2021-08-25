@@ -17,6 +17,6 @@
    <h1>Mixology</h1>
    <span>Instagram: <a href="https://www.instagram.com/theetohexperiment/">@TheEtOHExperiment</a></span>
    <h1>About Me</h1>
-   
+   <a href="resume_current.pdf" download="Thompson_resume">Resume</a>
 </body>
 </html>
