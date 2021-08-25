@@ -4,8 +4,8 @@
    <p>Thanks for checking out my personal website!  You've found the funneled intersection of my personal and professional interests
       ranging from engineering to cocktails, all steeped in a background mission of ecological sustainability and environmental justice.
       Feel free to poke around, check out my code tinkerings, give me a follow if you'd like.
-   </p><br>
-   <cite>All I want is to save the world.</cite>
+   </p>
+   <cite>All I want is to save the world</cite><br>
    <br>
    <h2>Personal Links</h2>
    <a href="mailto:tommythompson714@gmail.com">Email</a><br>
