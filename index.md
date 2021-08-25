@@ -5,7 +5,7 @@
       ranging from engineering to cocktails, all steeped in a background mission of ecological sustainability and environmental justice.
       Feel free to poke around, check out my code tinkerings, give me a follow if you'd like.
    </p>
-   <center><cite>All I want is to save the world</cite></center><br>
+   <center><cite>All I want is to save the world</cite></center>
    <br>
    <h2>Personal Links</h2>
    <a href="mailto:tommythompson714@gmail.com">Email</a><br>
