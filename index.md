@@ -21,6 +21,7 @@
    <h2>State Point Analysis Optimization</h2>
    <a href="https://github.com/tommyt714/WastewaterStatePointAnalysis">WastewaterStatePointAnalysis Repository</a>
    <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
+   <img src="SPA_graph_descriptor.png" alt="Plotted state point analysis curves including labels for each key feature">
    <br>
    <h2>LabSolutions Output Parsing</h2>
    <a href="https://github.com/tommyt714/ParsingLabSolutionsASCIIOutput">ParsingLabSolutionsASCIIOutput Forked Repository</a>
