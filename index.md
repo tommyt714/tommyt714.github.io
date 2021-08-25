@@ -19,7 +19,7 @@
    <span>Instagram: <a href="https://www.instagram.com/theetohexperiment/">@TheEtOHExperiment</a></span>
    <hr>
    <h1>About Me</h1>
-   <a href="resume_current.pdf?raw=true" download="Thompson_resume">Download My Resume!</a><br>
+   <a href="resume_current.pdf?raw=true" download="Thompson_resume">Download My R&eacute;sum&eacute;!</a><br>
    <br>
    <p>My name is Tommy Thompson, and I'm a licensed Professional Environmental Engineer, 
       passionate coder, and home mixologist living in the Greater Philadelphia area.  I'm currently looking to make the complete career
