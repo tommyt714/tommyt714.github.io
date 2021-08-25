@@ -16,20 +16,25 @@
    <h1>Pet Projects</h1>
    <h2>Collingswood ADA Curb Ramp Assessment</h2>
    <a href="https://github.com/tommyt714/CollingswoodADA">CollingswoodADA Repository</a>
+   <br>
    <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
    <br>
    <h2>State Point Analysis Optimization</h2>
    <a href="https://github.com/tommyt714/WastewaterStatePointAnalysis">WastewaterStatePointAnalysis Repository</a>
+   <br>
    <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
    <img src="SPA_graph_descriptor.png" alt="Plotted state point analysis curves including labels for each key feature">
    <br>
    <h2>LabSolutions Output Parsing</h2>
    <a href="https://github.com/tommyt714/ParsingLabSolutionsASCIIOutput">ParsingLabSolutionsASCIIOutput Forked Repository</a>
+   <br>
    <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
    <a href="https://www.researchgate.net/publication/295891707_Automated_Parsing_of_a_LabSolutions_Batch_Results_File_ASCII_Output_When_Using_a_Spreadsheet_or_Statistical_Package_to_Summarize_Data">Check out the published white paper here!</a>
    <br>
+   <br>
    <h2>Snake PyGame</h2>
    <a href="https://github.com/tommyt714/PythonInPython">PythonInPython Repository</a>
+   <br>
    <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
    <br>
    <hr>
