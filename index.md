@@ -8,15 +8,18 @@
       Kaggle.com to try to make sense of the world while simultaneously changing it for the better.<br><br>
       &emsp; &nbsp;- Tommy
    </p>
+   <br>
    <h2>Personal Links</h2>
    <a href="mailto:tommythompson714@gmail.com">Email</a><br>
    <a href="https://www.linkedin.com/in/thomas-thompson-pe/">LinkedIn</a><br>
    <a href="https://www.github.com/tommyt714/">GitHub</a>
-   <br>
+   <hr>
    <h1>Pet Projects</h1>
+   <hr>
    <h1>Mixology</h1>
    <span>Instagram: <a href="https://www.instagram.com/theetohexperiment/">@TheEtOHExperiment</a></span>
+   <hr>
    <h1>About Me</h1>
-   <a href="resume_current.pdf" download="Thompson_resume">Resume</a>
+   <a href="resume_current.pdf?raw=true" download="download">Resume</a>
 </body>
 </html>
