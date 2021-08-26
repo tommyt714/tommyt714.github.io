@@ -18,20 +18,48 @@
    <a href="https://github.com/tommyt714/CollingswoodADA">CollingswoodADA Repository</a>
    <br>
    <br>
-   <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
+   <p>The Americans with Disabilities Act of 1990 (ADA) regulates standards for pedestrian civil infrastructure such as doorways, sidewalks,
+      parking lots, and access ramps.  Curb ramps are shallowly sloped transitions typically between a pedestrian walkway and a roadway,
+      such as at the corners of a four-way intersection.  Curb ramps have set design standards for how steep they can be (in both directions),
+      the directions they face, and the types to be used in different scenarios.</p>
+   <p>In Collingswood, NJ, a suburb of Philadelphia, all curb ramps within a half-mile radius of the local train (PATCO) station were
+      inspected for compliance with ADA.  Over 400 ramps were observed with over 250 marked as non-compliant for a variety of reasons.
+      Using the GeoPandas and Folium packages in Python, the ramps were mapped to allow for a geospatial analysis of ADA compliance.
+      Future work includes implementing a functionality to determine the most efficient route from any given point to the train station using
+      only compliant ramps and running it through a public web application.
+   </p>
    <br>
    <h2>State Point Analysis Optimization</h2>
    <a href="https://github.com/tommyt714/WastewaterStatePointAnalysis">WastewaterStatePointAnalysis Repository</a>
    <br>
    <br>
-   <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
+   <p>State Point Analysis (SPA) is a graphical-analytical model of secondary sedimentation in an activated sludge wastewater treatment process.
+      It allows the operator to visualize the settling characteristics of the solids in secondary clarifiers as they compare to the hydraulic
+      properties of the tanks’ influent.  Ultimately, the operator can use the results of the analysis to optimize secondary treatment on the
+      basis of the return activated sludge (RAS) flow rate.</p>
+   <p>While usually a visual tool, SPA has been integrated preliminarily into a program that takes certain input parameters and analytically
+      calculates the optimal return activated sludge flow rate for ideal and most efficient operation.  Naturally, this model is a
+      simplification of a complex and dynamic treatment process and involves multiple assumptions/idealizations.  It is intended, however,
+      to act as a conservative guideline to improve ease of operation, ensure stability of the sludge blanket and food-to-mass ratios,
+      and maximize energy efficiency related to the oxygen transfer of the aeration system.
+   </p>
    <img src="SPA_graph_descriptor.png" alt="Plotted state point analysis curves including labels for each key feature">
    <br>
    <h2>LabSolutions Output Parsing</h2>
    <a href="https://github.com/tommyt714/ParsingLabSolutionsASCIIOutput">ParsingLabSolutionsASCIIOutput Forked Repository</a>
    <br>
    <br>
-   <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
+   <p>The original purpose of this script is to resolve a bug in the data management software of a major scientific instrumentation
+      company’s High Performance Liquid Chromatography (HPLC) machine that would cause the system to output incorrect data in the more readable,
+      tabular format but correct data in the raw ASCII files when using bracketed standards.  Therefore, this script receives as input the
+      ASCII files containing the correct data and outputs a single text file containing all of the samples, elutants, and their concentrations in a table.</p>
+   <p>The Python version of ASCIItoTable is intended to be a more user- and software-friendly update to the original script written in
+      Excel 2010's VBA.  An improvement was deemed necessary as a result of regular software updates and new versions of the Microsoft Office
+      suite causing bugs in the original script that could only be resolved with tedious code adjustments and/or toggling of specific references
+      in the IDE. The original version also did not allow for easy accessibility on unix-based operating systems such as Mac OS or Linux.
+      Python was ultimately chosen for its popularity and ubiquity and its simple portability between operating systems as well as the ease-of-use
+      of its I/O and string manipulation capabilities, especially with the desired inputs and outputs being merely text files.
+   </p>
    <a href="https://www.researchgate.net/publication/295891707_Automated_Parsing_of_a_LabSolutions_Batch_Results_File_ASCII_Output_When_Using_a_Spreadsheet_or_Statistical_Package_to_Summarize_Data">Check out the published white paper here!</a>
    <br>
    <br>
@@ -39,7 +67,15 @@
    <a href="https://github.com/tommyt714/PythonInPython">PythonInPython Repository</a>
    <br>
    <br>
-   <p><strong>PLACEHOLDER FOR PROJECT DESCRIPTION</strong></p>
+   <p>Snake is a classic video game style that became greatly popularized by its inclusion on Nokia cell phones in the late 1990s.
+      The concept is quite simple: the player controls a constantly moving, linear avatar (the snake) around a two-dimensional play area with the
+      goal of consuming dots (mice) that appear randomly one at a time around the area.  The snake can only turn at 90-degree angles, and any
+      collision with its own body (and sometimes the walls) results in a game over.  Each mouse extends the snake’s body, thus making the gameplay
+      increasingly difficult.</p>
+   <p>Pygame is a Python package designed for streamlining the development of smaller-scale video games.  In order to further develop my familiarity
+      with the Python language, I resolved myself to recreate Snake using this package’s graphical modules.  Future work includes finishing other
+      Pygame-based classics such as clones of Pac-Man, Tetris, and Breakout and hosting them all on a single digital arcade-like web application.
+   </p>
    <br>
    <hr>
    <h1>Mixology</h1>
