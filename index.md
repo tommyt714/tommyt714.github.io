@@ -29,6 +29,8 @@
       Future work includes implementing a functionality to determine the most efficient route from any given point to the train station using
       only compliant ramps and running it through a public web application.
    </p>
+   <img src="GoodBad_map.png" alt="Map of Collingswood, NJ with blue, half-mile radius circle centered around train station and green and red markers
+                                   depicting compliant and non-compliant ADA curb ramps, respectively">
    <br>
    <h2>State Point Analysis Optimization</h2>
    <a href="https://github.com/tommyt714/WastewaterStatePointAnalysis">WastewaterStatePointAnalysis Repository</a>
