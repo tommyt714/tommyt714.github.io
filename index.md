@@ -16,6 +16,7 @@
    <h1>Pet Projects</h1>
    <h2>Collingswood ADA Curb Ramp Assessment</h2>
    <a href="https://github.com/tommyt714/CollingswoodADA">CollingswoodADA Repository</a>
+   <a href="https://www.kaggle.com/cobo714/collingswoodada">Jupyter Notebook on Kaggle</a>
    <br>
    <br>
    <p>The Americans with Disabilities Act of 1990 (ADA) regulates standards for pedestrian civil infrastructure such as doorways, sidewalks,
